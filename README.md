@@ -1,1 +1,7 @@
-i am trying to make a minecraft mod that will have dinosaurs.I know how to model the creatures(i will be uploading thoose here) but i have zero experiance with coding and animations ect.So if you know how to animate or code and want to help my little project please notify me!In the meantime i will be making more models just in case!
+i am trying to make a minecraft dinosaur mod just like the mod unusual prehistory but with more dinosaurs hopefully!
+
+I’ve started creating the dinosaur models (I will be uploading them here soon).
+I am new to coding, animations, and modding, so this project is a learning experience for me.
+I’m looking for people who have experience in coding and animations
+If you have knowledge in either of these areas and would like to contribute to the project, please let me know!
+In the meantime, I’ll be continuing to work on more models to add to the mod.
