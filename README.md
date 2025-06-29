@@ -1,0 +1,1 @@
+i am trying to make a minecraft mod that will have dinosaurs.I know how to model the creatures(i will be uploading thoose here) but i have zero experiance with coding and animations ect.So if you know how to animate or code and want to help my little project please notify me!In the meantime i will be making more models just in case!
